@@ -17,7 +17,7 @@ let outfits = [
     },
     {
         title: "De quelle couleur est ta bugatti ?",
-        image: "image2.jpg",
+        image: "image2.png",
         items: [
             {
                 name: "Pull",
