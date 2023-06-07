@@ -1,0 +1,55 @@
+body {
+    background-color: #8da1ea;
+    font-family: Arial, sans-serif;
+    color: #FFFF00;
+}
+.header {
+    text-align: center;
+    padding: 50px;
+}
+.outfit {
+    display: flex;
+    margin: 30px 0;
+    margin-left: 10px; /* Ajoute une marge à gauche de 10 pixels */
+}
+
+.outfit img {
+    width: 200px;
+    height: 300px;
+    object-fit: cover;
+}
+
+.outfit .details {
+    margin-left: 20px;
+}
+
+input#search-bar {
+    width: 100%; /* Faire en sorte que la barre de recherche prenne toute la largeur de la page */
+    height: 40px; /* Modifiez cette valeur pour changer la hauteur de la barre de recherche */
+    border-radius: 15px; /* Ajoute des coins arrondis à la barre de recherche */
+    padding: 5px 10px; /* Ajoute un peu d'espace à l'intérieur de la barre de recherche, à gauche et à droite du texte */
+    font-size: 16px; /* Augmente la taille du texte dans la barre de recherche */
+    box-sizing: border-box; /* S'assure que la largeur de 100% inclut le padding et la bordure, pour éviter que la barre de recherche ne dépasse de la page */
+    border: none;
+}
+
+
+@media (max-width: 600px) {
+    .header {
+        padding: 30px;
+    }
+
+    .outfit img {
+        width: 100%;
+        height: auto;
+    }
+
+    .outfit .details {
+        margin-left: 10px;
+    }
+
+    input#search-bar {
+        height: 30px;
+        font-size: 14px;
+    }
+}
