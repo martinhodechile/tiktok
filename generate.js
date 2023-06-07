@@ -17,7 +17,7 @@ let outfits = [
     },
     {
         title: "De quelle couleur est ta bugatti ?",
-        image: "image1.jpg",
+        image: "image2.jpg",
         items: [
             {
                 name: "Pull",
@@ -29,6 +29,27 @@ let outfits = [
                 link: "https://martinarnaud.fr/",
                 emoji: "🩳"
             }
+        ]
+    },
+       {
+        title: "5 chemises summer",
+        image: "image1.jpg",
+        items: [
+            {
+                name: "Chemise HetM Bleue",
+                link: "https://martinarnaud.fr/",
+                emoji: "👔"
+            },
+            {
+                name: "Sneakers",
+                link: "https://martinarnaud.fr/",
+                emoji: "🥾"
+            },
+                        {
+                name: "Short",
+                link: "https://martinarnaud.fr/",
+                emoji: "🩳"
+            },
         ]
     },
     // ...
