@@ -1,55 +1,70 @@
 let outfits = [
     {
-        title: "Les pépites de l'été sur Amazon",
-        image: "image1.jpg",
+        title: "Les asics EX89 en Promo",
+        image: "Asics EX89.jpg",
         items: [
             {
-                name: "Pull",
-                link: "https://martinarnaud.fr/",
-                emoji: "👕"
-            },
-            {
-                name: "Short",
-                link: "https://martinarnaud.fr/",
-                emoji: "🩳"
+                name: "Asics EX89",
+                link: "https://allikestore.com/en-eu/products/asics-ex89-white-cream-1201a476-110?siteid=214131&source=webgains&wgexpiry=1717777910&wgu=10659_214131_16862419101585_3f750c6aac",
+                emoji: "🥾"
             }
         ]
     },
     {
-        title: "De quelle couleur est ta bugatti ?",
-        image: "image2.png",
+        title: "Les meilleurs sites pour des Jeans Loose Fit",
+        image: "Les meilleures sites de Pants.jpg",
         items: [
             {
-                name: "Pull",
-                link: "https://martinarnaud.fr/",
-                emoji: "👕"
+                name: "Boohooman Grey Jean",
+                link: "https://www.boohooman.com/fr/jean-baggy-rigide-delave/BMM44954.html",
+                emoji: "👖"
             },
             {
-                name: "Short",
-                link: "https://martinarnaud.fr/",
-                emoji: "🩳"
+                name: "Boohooman Olive Jean",
+                link: "https://www.boohooman.com/fr/jean-baggy-surteint/BMM25397.html",
+                emoji: "👖"
+            },
+            {
+                name: "Weekday Stained blue Jean",
+                link: "https://www.weekday.com/en_eur/men/jeans/product.galaxy-loose-straight-jeans-blue.0970127027.html",
+                emoji: "👖"
+            },
+            {
+                name: "Weekday Chalk White Jean",
+                link: "https://www.weekday.com/en_eur/men/jeans/product.galaxy-loose-straight-jeans-white.0970127025.html",
+                emoji: "👖"
+            },
+            {
+                name: "Weekday Black Jean",
+                link: "https://www.weekday.com/en_eur/men/jeans/product.galaxy-loose-straight-jeans-black.0970127020.html",
+                emoji: "👖"
             }
         ]
     },
        {
-        title: "5 chemises summer",
-        image: "image1.jpg",
+        title: "Outfit Old Money Olive part 1",
+        image: "OutfitOldMoneyChemiseBeige.jpg",
         items: [
             {
-                name: "Chemise HetM Bleue",
-                link: "https://martinarnaud.fr/",
+                name: "Chemise Zegna Olive",
+                link: "https://www.mrporter.com/en-ru/mens/product/zegna/clothing/plain-shirts/camp-collar-cotton-linen-and-silk-shirt/1647597293319440?cm_sp=homepage-_-feed-_-newness-WN-new-arrivals-all-global-web-product5-undefined-_-20-02-23",
                 emoji: "👔"
             },
             {
-                name: "Sneakers",
-                link: "https://martinarnaud.fr/",
-                emoji: "🥾"
+                name: "Chemise Olive H&M version",
+                link: "https://www2.hm.com/fr_fr/productpage.0965257005.html",
+                emoji: "👔"
             },
-                        {
-                name: "Short",
-                link: "https://martinarnaud.fr/",
-                emoji: "🩳"
+            {
+                name: "Pantalon Gary en lin",
+                link: "https://www.capelstore.fr/154231-pantalon-en-lin-cordon-gary-capel-grande-taille.html",
+                emoji: "👖"
             },
+            {
+                name: "Chaussure Modanisa Marron à -60%",
+                link: "https://m.modanisa.com/fr/transparent-chaussures-pour-hommes-2369-fast-step-8635771.html",
+                emoji: "👞"
+            }
         ]
     },
     // ...
