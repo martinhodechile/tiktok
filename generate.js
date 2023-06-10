@@ -43,7 +43,7 @@ let outfits = [
     },
        {
         title: "Outfit Old Money Olive part 1",
-        image: "OutfitOldMoneyChemiseBeige.jpg",
+        image: "Outfit Old Money Chemise beige.jpg",
         items: [
             {
                 name: "Chemise Zegna Olive",
