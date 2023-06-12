@@ -21,6 +21,32 @@ let outfits = [
         ]
     },
     {
+        title: "Où trouver les meilleures chemises pour l'été",
+        image: "Où trouver ses chemises pour l'été.jpg",
+        items: [
+            {
+                name: "Chemise en lin Zegna Olive",
+                link: "https://www.mrporter.com/en-ru/mens/product/zegna/clothing/plain-shirts/camp-collar-cotton-linen-and-silk-shirt/1647597293319440?cm_sp=homepage-_-feed-_-newness-WN-new-arrivals-all-global-web-product5-undefined-_-20-02-23",
+                emoji: "👔"
+            },
+            {
+                name: "Chemise en lin Zegna red striped",
+                link: "https://www.zalando.fr/zign-unisex-lunettes-de-soleil-silver-coloured-zi154k02u-d11.html",
+                emoji: "👔"
+            },
+            {
+                name: "Chemise en lin Frescobol carioca Sand striped",
+                link: "https://www.mrporter.com/en-kr/mens/product/frescobol-carioca/clothing/striped-shirts/roberto-camp-collar-striped-linen-shirt/38063312419412570",
+                emoji: "👔"
+            },
+            {
+                name: "Chemise en lin Frescobol carioca Rose pastel",
+                link: "https://www.mrporter.com/en-fr/mens/product/frescobol-carioca/clothing/plain-shirts/angelo-camp-collar-linen-shirt/1647597294143092",
+                emoji: "👔"
+            }
+        ]
+    },
+    {
         title: "Les asics EX89 en Promo",
         image: "Asics EX89.jpg",
         items: [
