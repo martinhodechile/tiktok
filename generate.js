@@ -1,5 +1,26 @@
 let outfits = [
     {
+        title: "Les accessoires essentiels pour améliorer ton style",
+        image: "Les accessoires essentiels pour up ton style.jpg",
+        items: [
+            {
+                name: "Casquette Polo Ralph Lauren",
+                link: "https://www.zalando.fr/polo-ralph-lauren-unisex-casquette-black-mask-po252p003-q13.html",
+                emoji: "🧢"
+            },
+            {
+                name: "Lunettes Zign White",
+                link: "https://www.zalando.fr/zign-unisex-lunettes-de-soleil-silver-coloured-zi154k02u-d11.html",
+                emoji: "🥽"
+            },
+            {
+                name: "Nike sling bag",
+                link: "https://www.zalando.fr/nike-sportswear-essentials-unisex-sac-bandouliere-blackironstone-ni154h05b-q11.html",
+                emoji: "🎒"
+            }
+        ]
+    },
+    {
         title: "Les asics EX89 en Promo",
         image: "Asics EX89.jpg",
         items: [
