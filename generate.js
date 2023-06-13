@@ -1,4 +1,18 @@
 let outfits = [
+   {
+        title: "La Nike terminator low liberté",
+        image: "liberté.jpg",
+        items: [
+            {
+                name: "Nike terminator liberté sur Fenom",
+                link: "https://www.fenom.com/fr/nike/nike-terminator-low-liberte-17824.html"
+            },
+            {
+                name: "Nike terminator liberté sur GrosBasket",
+                link: "https://www.grosbasket.fr/nike-terminator-low-liberte"
+            }
+        ]
+    },
     {
         title: "Les accessoires essentiels pour améliorer ton style",
         image: "Les accessoires essentiels pour up ton style.jpg",
