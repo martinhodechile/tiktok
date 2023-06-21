@@ -1,5 +1,23 @@
 let outfits = [
    {
+        title: "Crewneck Amazon Finds part 1",
+        image: "Les meilleurs pulls d'Amazon part 2.jpg",
+        items: [
+            {
+                name: "Brown Crewneck Margaret",
+                link: "https://www.amazon.fr/nicticsi-Sweatshirt-Oversized-Adolescent-Streetwear/dp/B0BRN5B3KN/ref=is_sr_dp_4?__mk_fr_FR=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&keywords=sweat%252By2k%252Boversized%252Bhomme&qid=1686502908&s=apparel&sr=1-4&th=1&_encoding=UTF8&tag=martinho0b-21&linkCode=ur2&linkId=f6ee95dbf1f69434d565adb59c29b17d&camp=1642&creative=6746"
+            },
+            {
+                name: "Green Crewneck Amazon Essentials",
+                link: "https://www.amazon.fr/Amazon-Essentials-Sweat-Shirt-Oversize-Grande/dp/B0BJDDML18/ref=mp_s_a_1_2?crid=10FTDTR2K39SJ&keywords=amazon%252Bessentials%252Bhomme%252Boversize&qid=1686306047&sprefix=amazon%252Bessentials%252Bhomme%252Boversize%252Caps%252C92&sr=8-2&th=1&psc=1&_encoding=UTF8&tag=martinho0b-21&linkCode=ur2&linkId=a6adad3a25e32633a5d392a5b08fa10b&camp=1642&creative=6746"
+            },
+            {
+                name: "Sand Crewneck Amazon Essentials",
+                link: "https://www.amazon.fr/Amazon-Essentials-Sweat-Shirt-Oversize-Grande/dp/B0BJDFHS9L/ref=mp_s_a_1_2?crid=10FTDTR2K39SJ&keywords=amazon%252Bessentials%252Bhomme%252Boversize&qid=1686306047&sprefix=amazon%252Bessentials%252Bhomme%252Boversize%252Caps%252C92&sr=8-2&th=1&psc=1&_encoding=UTF8&tag=martinho0b-21&linkCode=ur2&linkId=56decd8f72faa466984bad4ff096e276&camp=1642&creative=6746"
+            }
+        ]
+    },
+    {
         title: "La Nike terminator low liberté",
         image: "liberté.jpg",
         items: [
