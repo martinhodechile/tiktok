@@ -1,5 +1,23 @@
 let outfits = [
    {
+        title: "Crewneck Amazon Finds part 2",
+        image: "Les meilleurs pulls d'Amazon.jpg",
+        items: [
+            {
+                name: "White Crewneck California",
+                link: "https://www.amazon.fr/nicticsi-Sweatshirt-Oversized-Adolescent-Streetwear/dp/B0BRN6CR23/ref=is_sr_dp_4?__mk_fr_FR=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&keywords=sweat%252By2k%252Boversized%252Bhomme&qid=1686502908&s=apparel&sr=1-4&th=1&_encoding=UTF8&tag=martinho0b-21&linkCode=ur2&linkId=f1c32c23dd64b69255351f94f126e378&camp=1642&creative=6746"
+            },
+            {
+                name: "Black Stats Crewneck",
+                link: "https://www.amazon.fr/stats-Originals-Oversized-Heavy-Sweatshirt/dp/B09TH9LH1X/ref=sr_1_54?__mk_fr_FR=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&keywords=sweat+oversized+homme&qid=1686504193&s=apparel&sr=1-54&_encoding=UTF8&tag=martinho0b-21&linkCode=ur2&linkId=bce7f56846e4b69568025bce57f43da3&camp=1642&creative=6746"
+            },
+            {
+                name: "Taupe Hoodie Amazon Essentials",
+                link: "https://www.amazon.fr/Capuche-D%25C3%25A9tendu-Tendance-Classique-Graphique/dp/B0BQR9LZ1R/ref=sr_1_563_sspa?__mk_fr_FR=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&keywords=hoodie+homme&qid=1686505606&s=apparel&sr=1-563-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&psc=1&_encoding=UTF8&tag=martinho0b-21&linkCode=ur2&linkId=a74a1e8d5f04fb24f02e716ae3d470c8&camp=1642&creative=6746"
+            }
+        ]
+    },
+    {
         title: "Crewneck Amazon Finds part 1",
         image: "Les meilleurs pulls d'Amazon part 2.jpg",
         items: [
